@@ -1,5 +1,5 @@
 {
-  "name": "discordjs-bot-template",
+  "name": "slayer07-base-controller",
   "version": "1.0.0",
   "description": "A simple DiscordJS TS Bot template",
   "main": "src/index.ts",
